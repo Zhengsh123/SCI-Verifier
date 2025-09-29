@@ -1,6 +1,4 @@
-# SCI-Verifier
-
-<p align="center"> <img src="img/title.png" style="width: 95%;" id="title-icon">       </p>
+# SCI-Verifier:  Scientific Verifier with Thinking
 
 <p align="center">
   📄 <a href="https://arxiv.org/abs/2506.00022" target="_blank">Paper</a> &nbsp; | &nbsp;
