@@ -69,6 +69,12 @@ If interested in our work, please contact us at:
 \- Shenghe Zheng: shenghez.zheng@gmail.com
 
 ## Citation
-
+```
+@article{zheng2025sci,
+  title={SCI-Verifier: Scientific Verifier with Thinking},
+  author={Zheng, Shenghe and Huang, Chenyu and Yu, Fangchen and Yao, Junchi and Ye, Jingqi and Chen, Tao and Luo, Yun and Ding, Ning and Bai, Lei and Cui, Ganqu and others},
+  journal={arXiv preprint arXiv:2509.24285},
+  year={2025}
+}
 ```
 
