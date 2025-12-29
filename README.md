@@ -3,6 +3,7 @@
 <p align="center">
   📄 <a href="https://arxiv.org/abs/2506.00022" target="_blank">Paper</a> &nbsp; | &nbsp;
   🤗 <a href="https://huggingface.co/datasets/desimfj/SCI-VerifyBench" target="_blank">Hugging Face</a> &nbsp; | &nbsp;
+  🤗 <a href="https://huggingface.co/desimfj/SCI-Verifier-4B" target="_blank">Model</a> &nbsp; | &nbsp;
   ⏬ <a href="https://huggingface.co/datasets/desimfj/SCI-VerifyBench" target="_blank">Data</a>
 </p>
 
