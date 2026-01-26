@@ -1,13 +1,16 @@
 # SCI-Verifier:  Scientific Verifier with Thinking
 
 <p align="center">
-  📄 <a href="https://arxiv.org/abs/2506.00022" target="_blank">Paper</a> &nbsp; | &nbsp;
+  📄 <a href="https://arxiv.org/abs/2509.24285" target="_blank">Paper</a> &nbsp; | &nbsp;
   🤗 <a href="https://huggingface.co/datasets/desimfj/SCI-VerifyBench" target="_blank">Hugging Face</a> &nbsp; | &nbsp;
   🤗 <a href="https://huggingface.co/desimfj/SCI-Verifier-4B" target="_blank">Model</a> &nbsp; | &nbsp;
   ⏬ <a href="https://huggingface.co/datasets/desimfj/SCI-VerifyBench" target="_blank">Data</a>
 </p>
 
 This repo contains the code for the paper SCI-Verifier:  Scientific Verifier with Thinking.
+
+## 🔥 News
+- *2026.01*: 🎉 Our [SCI-Verifier](https://arxiv.org/abs/2509.24285) is accepted by ICLR 2026.
 
 ## Overview
 
